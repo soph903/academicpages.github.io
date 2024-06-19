@@ -3,7 +3,7 @@ main:
   - title: "Research"
     url: "/research/"
   - title: "CV"
-    url: "files/CV_ChiaWenChen.pdf"
+    url: "/files/CV_ChiaWenChen.pdf"
   # - title: "Teaching"
   #   url: "/teaching/"
   - title: "Hiring"
