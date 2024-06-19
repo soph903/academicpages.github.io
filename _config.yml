@@ -28,7 +28,11 @@ author:
   location         : "Taipei, Taiwan"
   employer         : # "Red Brick University"
   uri              : # URL
-  email            : "cwzchen@gate.sinica.edu.tw" 
+  # email            : "cwzchen@gate.sinica.edu.tw" 
+  links:
+  - label: "cwzchen@gate.sinica.edu.tw"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "mailto:cwzchen@gate.sinica.edu.tw"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
